@@ -1,0 +1,122 @@
+[
+  {
+    "id": "8",
+    "title": "Yangi server xarid qilish",
+    "description": "Tizim yuklamasini ko'tarish uchun qo'shimcha server va xotira sotib olish.",
+    "status": "inactive"
+  },
+  {
+    "id": "9",
+    "title": "Xavfsizlik auditini o'tkazish",
+    "description": "Tizimdagi ehtimoliy zaifliklarni aniqlash va xakerlik hujumlaridan himoyalanish uchun testlar.",
+    "status": "active"
+  },
+  {
+    "id": "10",
+    "title": "Yillik hisobotni tayyorlash",
+    "description": "Barcha bo'limlardan olingan natijalar asosida joriy yil uchun yakuniy hisobotni shakllantirish.",
+    "status": "pending"
+  },
+  {
+    "id": "5",
+    "title": "Xodimlar uchun yo'riqnoma yozish",
+    "description": "Yangi kelgan ishchilar uchun tizimdan qanday foydalanish haqida qo'llanma tayyorlash.",
+    "status": "active"
+  },
+  {
+    "id": "6",
+    "title": "Reklama kampaniyasini rejalashtirish",
+    "description": "Kuzgi chegirmalar mavsumi uchun Instagram va Facebook orqali marketing rejasini tuzish.",
+    "status": "pending"
+  },
+  {
+    "id": "7",
+    "title": "Mijozlar bilan aloqa bo'limini kengaytirish",
+    "description": "Call markaz uchun yangi xodimlarni ishga olish va o'qitish.",
+    "status": "active"
+  },
+  {
+    "id": "8",
+    "title": "Yangi server xarid qilish",
+    "description": "Tizim yuklamasini ko'tarish uchun qo'shimcha server va xotira sotib olish.",
+    "status": "inactive"
+  },
+  {
+    "id": "9",
+    "title": "Xavfsizlik auditini o'tkazish",
+    "description": "Tizimdagi ehtimoliy zaifliklarni aniqlash va xakerlik hujumlaridan himoyalanish uchun testlar.",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "title": "Ma'lumotlar bazasini optimallashtirish",
+    "description": "Katta so'rovlarda yuzaga kelayotgan kechikishlarni kamaytirish maqsadida indeksatsiya qilish.",
+    "status": "inactive"
+  },
+  {
+    "id": "5",
+    "title": "Xodimlar uchun yo'riqnoma yozish",
+    "description": "Yangi kelgan ishchilar uchun tizimdan qanday foydalanish haqida qo'llanma tayyorlash.",
+    "status": "active"
+  },
+  {
+    "id": "6",
+    "title": "Reklama kampaniyasini rejalashtirish",
+    "description": "Kuzgi chegirmalar mavsumi uchun Instagram va Facebook orqali marketing rejasini tuzish.",
+    "status": "pending"
+  },
+  {
+    "id": "7",
+    "title": "Mijozlar bilan aloqa bo'limini kengaytirish",
+    "description": "Call markaz uchun yangi xodimlarni ishga olish va o'qitish.",
+    "status": "active"
+  },
+  {
+    "id": "8",
+    "title": "Yangi server xarid qilish",
+    "description": "Tizim yuklamasini ko'tarish uchun qo'shimcha server va xotira sotib olish.",
+    "status": "inactive"
+  },
+  {
+    "id": "9",
+    "title": "Xavfsizlik auditini o'tkazish",
+    "description": "Tizimdagi ehtimoliy zaifliklarni aniqlash va xakerlik hujumlaridan himoyalanish uchun testlar.",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "title": "Ma'lumotlar bazasini optimallashtirish",
+    "description": "Katta so'rovlarda yuzaga kelayotgan kechikishlarni kamaytirish maqsadida indeksatsiya qilish.",
+    "status": "inactive"
+  },
+  {
+    "id": "5",
+    "title": "Xodimlar uchun yo'riqnoma yozish",
+    "description": "Yangi kelgan ishchilar uchun tizimdan qanday foydalanish haqida qo'llanma tayyorlash.",
+    "status": "active"
+  },
+  {
+    "id": "6",
+    "title": "Reklama kampaniyasini rejalashtirish",
+    "description": "Kuzgi chegirmalar mavsumi uchun Instagram va Facebook orqali marketing rejasini tuzish.",
+    "status": "pending"
+  },
+  {
+    "id": "7",
+    "title": "Mijozlar bilan aloqa bo'limini kengaytirish",
+    "description": "Call markaz uchun yangi xodimlarni ishga olish va o'qitish.",
+    "status": "active"
+  },
+  {
+    "id": "8",
+    "title": "Yangi server xarid qilish",
+    "description": "Tizim yuklamasini ko'tarish uchun qo'shimcha server va xotira sotib olish.",
+    "status": "inactive"
+  },
+  {
+    "id": "9",
+    "title": "Xavfsizlik auditini o'tkazish",
+    "description": "Tizimdagi ehtimoliy zaifliklarni aniqlash va xakerlik hujumlaridan himoyalanish uchun testlar.",
+    "status": "active"
+  }
+]
