@@ -10,15 +10,11 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const DATA_FILE = path.join(__dirname, "data.json");
 
-// Set up Swagger servers dynamically to allow both localhost and network IP
+// Set up Swagger servers to use relative path (works on Local, Network, and Render)
 swaggerDocument.servers = [
     {
-        url: `http://localhost:${PORT}`,
-        description: "Local server"
-    },
-    {
-        url: `http://${ip.address()}:${PORT}`,
-        description: "Network server"
+        url: "/",
+        description: "Current Server (Local/Render/Network)"
     }
 ];
 
